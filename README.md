@@ -1,6 +1,6 @@
 # Welcome to My Digital Realm 👾
 
-![Namaskar](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Namaskar](https://media.tenor.com/VavSdtvIXEgAAAAj/namaste.gif)
 
 ## About Me
 

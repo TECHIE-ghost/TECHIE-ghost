@@ -1,6 +1,6 @@
 # Welcome to My Digital Realm 👾
 
-![Profile Avatar]((https://avatars.githubusercontent.com/u/177408671?s=400&u=af37b985ea3a7b0eadc9c1ba022bde1ff70a4b4e&v=4))
+![Profile Avatar]([(https://avatars.githubusercontent.com/u/177408671?s=400&u=af37b985ea3a7b0eadc9c1ba022bde1ff70a4b4e&v=4)](https://pixabay.com/vectors/fashion-boy-cartoon-spring-summer-8515751/))
 
 ## About Me
 

@@ -14,16 +14,35 @@ Hey there! I'm **Debikrupa Dibyajit Nanda**, a digital alchemist 🎨 transformi
 
 ## Real-Time Updates
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-around;">
 
+<div align="left">
+  
 ### Current Time ⏰
-![Clock](https://raw.githubusercontent.com/Gr08Navneet/Analog-Clock-Image/main/clock.jpg) <!-- Replace with a relevant image or use an HTML/CSS solution -->
+![Clock](https://dayspedia.com/time/online/) <!-- Replace with a relevant image or use an HTML/CSS solution -->
+
+</div>
+
+<div align="right">
 
 ### Current Weather 🌦️
-![Weather](https://wttr.in/YourCity.png?lang=en&n) <!-- Replace "YourCity" with your city or use an API solution -->
+![Weather]($ curl "https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&current=temperature_2m,wind_speed_10m&hourly=temperature_2m,relative_humidity_2m,wind_speed_10m"
 
-### Location 📍
-**Odisha, India** <!-- You can dynamically update this with a geolocation service -->
+{
+  "current": {
+    "time": "2022-01-01T15:00"
+    "temperature_2m": 2.4,
+    "wind_speed_10m": 11.9,
+  },
+  "hourly": {
+    "time": ["2022-07-01T00:00","2022-07-01T01:00", ...]
+    "wind_speed_10m": [3.16,3.02,3.3,3.14,3.2,2.95, ...],
+    "temperature_2m": [13.7,13.3,12.8,12.3,11.8, ...],
+    "relative_humidity_2m": [82,83,86,85,88,88,84,76, ...],
+  }
+}) <!-- Replace "YourCity" with your city or use an API solution -->
+
+</div>
 
 </div>
 

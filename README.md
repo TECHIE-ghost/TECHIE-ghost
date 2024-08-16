@@ -1,6 +1,6 @@
 # Welcome to My Digital Realm 👾
 
-![Profile Avatar]((https://pixabay.com/vectors/fashion-boy-cartoon-spring-summer-8515751/))
+![Namaskar](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ## About Me
 

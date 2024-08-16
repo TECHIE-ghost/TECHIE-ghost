@@ -1,6 +1,7 @@
 # Welcome to My Digital Realm 👾
 
-![Namaskar](https://media.tenor.com/VavSdtvIXEgAAAAj/namaste.gif)
+
+![Namaskar](https://media.tenor.com/VavSdtvIXEgAAAAj/namaste.gif) 
 
 ## About Me
 
@@ -10,6 +11,21 @@ Hey there! I'm **Debikrupa Dibyajit Nanda**, a digital alchemist 🎨 transformi
 - 🖌️ Design Ninja: I weave old-school aesthetics with modern flair.
 - 🤖 AI Explorer: I love diving into AI-driven creativity and innovation.
 - 🕶️ Tech Aficionado: Forever fascinated by the latest in tech and gadgets.
+
+## Real-Time Updates
+
+<div align="center">
+
+### Current Time ⏰
+![Clock](https://raw.githubusercontent.com/Gr08Navneet/Analog-Clock-Image/main/clock.jpg) <!-- Replace with a relevant image or use an HTML/CSS solution -->
+
+### Current Weather 🌦️
+![Weather](https://wttr.in/YourCity.png?lang=en&n) <!-- Replace "YourCity" with your city or use an API solution -->
+
+### Location 📍
+**Odisha, India** <!-- You can dynamically update this with a geolocation service -->
+
+</div>
 
 ## What I Do
 
@@ -30,14 +46,16 @@ Hey there! I'm **Debikrupa Dibyajit Nanda**, a digital alchemist 🎨 transformi
 - AI-enhanced design workflows
 - Advanced CSS techniques
 - Interactive storytelling through code
-- JavaScript creative coding
+- JS creative coding
 
 ## Let's Collaborate 🤝
 
-Got an exciting project or idea? Feel free to reach out! I'm always open to new opportunities and collaborations. 
+Got an exciting project or idea? Feel free to reach out! I'm always open to new opportunities and collaborations.
 
 ---
 
 *Code is poetry, and I love writing my verses. Let's create something amazing together!*
+
+
 
 

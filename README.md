@@ -19,7 +19,7 @@ Hey there! I'm **Debikrupa Dibyajit Nanda**, a digital alchemist 🎨 transformi
 <div align="left">
   
 ### Current Time ⏰
-[![Clock](https://github.com/TECHIE-ghost/TECHIE-ghost/blob/main/Screenshot%202024-08-17%20134044.png)](https://codepen.io/Debikrupa-Nanda/pen/rNEpqxb)<!-- Replace with a relevant image or use an HTML/CSS solution -->
+![Clock](https://dayspedia.com/time/in/Nagpur/)<!-- Replace with a relevant image or use an HTML/CSS solution -->
 
 </div>
 

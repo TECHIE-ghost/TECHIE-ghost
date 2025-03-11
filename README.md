@@ -19,32 +19,19 @@ Hey there! I'm **Debikrupa Dibyajit Nanda**, a digital alchemist 🎨 transformi
 <div align="left">
   
 ### Current Time ⏰
-![Clock](https://codepen.io/Debikrupa-Nanda/pen/rNEpqxb)<!-- Replace with a relevant image or use an HTML/CSS solution -->
+<img src="https://media.tenor.com/t7hL7btfGfMAAAAM/clock.gif" alt="Clock" width="100" />
 
 </div>
 
 <div align="right">
 
 ### Current Weather 🌦️
-![Weather]($ curl "https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&current=temperature_2m,wind_speed_10m&hourly=temperature_2m,relative_humidity_2m,wind_speed_10m"
-
-{
-  "current": {
-    "time": "2022-01-01T15:00"
-    "temperature_2m": 2.4,
-    "wind_speed_10m": 11.9,
-  },
-  "hourly": {
-    "time": ["2022-07-01T00:00","2022-07-01T01:00", ...]
-    "wind_speed_10m": [3.16,3.02,3.3,3.14,3.2,2.95, ...],
-    "temperature_2m": [13.7,13.3,12.8,12.3,11.8, ...],
-    "relative_humidity_2m": [82,83,86,85,88,88,84,76, ...],
-  }
-}) <!-- Replace "YourCity" with your city or use an API solution -->
+<img src="https://wttr.in/?format=%C+%t" alt="Weather" />
 
 </div>
 
 </div>
+
 
 ## What I Do
 

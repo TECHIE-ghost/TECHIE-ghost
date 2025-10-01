@@ -18,9 +18,9 @@ Hey there! I'm **Debikrupa Dibyajit Nanda** (@TECHIE-ghost), a digital alchemist
 ## Current Vibe 💡
 
 <div align="center">
-  <img src="https://media.tenor.com/t7hL7btfGfMAAAAM/clock.gif" alt="Clock GIF" width="100" />
+  <img src="https://picsum.photos/300/150?grayscale&blur=2" alt="A dynamically generated abstract image reflecting a creative vibe" width="300" />
   
-  **Currently exploring:** Interactive storytelling and AI-enhanced design workflows.
+  **Currently exploring:** Interactive storytelling and AI-enhanced design workflows. *(Time is 6:59 PM IST)*
 </div>
 
 ---
@@ -68,7 +68,7 @@ Got an exciting project or idea? Feel free to reach out! I'm always open to new 
   <a href="debikrupan@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://www.linkedin.com/debikrupa-nanda">
+  <a href="[https://www.linkedin.com/debikrupa-nanda](https://www.linkedin.com/in/debikrupa-nanda-525070199/)">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
